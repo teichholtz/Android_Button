@@ -1,2 +1,2 @@
-ffff# Android_Button
+# Android_Button
 The button tutorial 
